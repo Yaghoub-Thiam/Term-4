@@ -1,0 +1,2 @@
+Groceries Data Set contains: a collection of receipts with each line representing 1 receipt and the items purchased. 
+Each line is called a transaction and each column in a row represents an item
